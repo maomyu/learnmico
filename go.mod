@@ -10,7 +10,8 @@ require (
 	github.com/gorilla/handlers v1.4.2 // indirect
 	github.com/hashicorp/golang-lru v0.5.3 // indirect
 	github.com/lucas-clemente/quic-go v0.12.0 // indirect
-	github.com/micro/go-micro v1.8.1
+	github.com/micro/go-micro v1.8.2
+	github.com/micro/micro v1.8.3 // indirect
 	github.com/mwitkow/go-conntrack v0.0.0-20190716064945-2f068394615f // indirect
 	github.com/nats-io/nats-server/v2 v2.0.2 // indirect
 	github.com/prometheus/client_golang v1.1.0 // indirect
